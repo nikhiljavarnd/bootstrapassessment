@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+}
+
+#hero-section {
+    background-image: url('../images/BG_CODE.png');
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+    color: white;
+}
+
+#hero-2-section {
+    height: 30vh;
+}
+
+#service-section {
+    background-color: rgb(51, 51, 51);
+    height: 100vh;
+}
+
+#contact-section {
+    height: 70vh;
+}
+
+.card {
+    height: 80vh;
+    margin: 0px 16px;
+}
+
+.action-btn {
+    color: white;
+    background-color: rgb(51, 51, 51);
+    border: 2px solid rgba(255, 255, 255, 0.507);
+    padding: 10px 20px;
+}
+
+.card-img {
+    height: 180px;
+}
+
+#contact-testimonial {
+    height: 40%;
+}
+
+#contact-details {
+    height: 60%;
+}
+
+#contact-info {
+    background-color: rgb(37, 106, 255); 
+    color: white;
+}
+
+#about-company {
+    background-color: rgb(51, 51, 51);
+    color: white;
+}
+
